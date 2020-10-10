@@ -6,3 +6,7 @@ Workplace.py - Python code for the project (Video analysis)
 dataset_workplace_safety - training dataset
 
 Animoto_video_720p.mp4, Crowd in a mall.mp4 - Testing video dataset
+
+Project Demonstration Video - https://youtu.be/-ocu5hABC74
+
+VinnyChamoli_project_report.pdf - Project documentation 
